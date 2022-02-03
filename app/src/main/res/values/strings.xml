@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Essential Weather</string>
+    <string name="weather_string">25 degrees</string>
 </resources>
