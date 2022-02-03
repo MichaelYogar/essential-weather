@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Essential Weather</string>
-    <string name="weather_string">25 degrees</string>
+    <string name="search_for_city">Search for city</string>
+    <string name="city">Toronto</string>
 </resources>
